@@ -335,11 +335,11 @@ This was intentional to:
 ---
 
 
-# 🔧 Results
+# 🔧 Output Results
 
-![Product.png]([https://github.com/pratibhabd/Explain-My-Prescription-A-Safe-Medical-Assistant-using-MedGemma/blob/master/Results/product.png]
+![Product](Results/results_1.png)
 
-![Product.png]([https://github.com/pratibhabd/Explain-My-Prescription-A-Safe-Medical-Assistant-using-MedGemma/blob/master/Results/product.png]
+![Product](Results/results_2.png)
 
 ---
 
