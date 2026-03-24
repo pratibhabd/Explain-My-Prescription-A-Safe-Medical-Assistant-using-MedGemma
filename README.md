@@ -83,7 +83,7 @@ By avoiding external APIs and centralized servers, the system aligns with the HA
 The model is prompted to produce educational, non-diagnostic outputs, ensuring responsible and safe use in a healthcare context.
 
 
-![Product.png]([https://github.com/pratibhabd/Explain-My-Prescription-A-Safe-Medical-Assistant-using-MedGemma/blob/master/Results/product.png]
+![Product](Results/product.png)
 
 ---
 
