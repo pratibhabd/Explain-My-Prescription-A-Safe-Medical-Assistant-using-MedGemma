@@ -82,6 +82,9 @@ By avoiding external APIs and centralized servers, the system aligns with the HA
 
 The model is prompted to produce educational, non-diagnostic outputs, ensuring responsible and safe use in a healthcare context.
 
+
+![Product.png]([https://github.com/pratibhabd/Explain-My-Prescription-A-Safe-Medical-Assistant-using-MedGemma/blob/master/Results/product.png]
+
 ---
 
 # ⚙️ Technical Details
@@ -328,6 +331,15 @@ This was intentional to:
 - Supervised fine-tuning on pharmacist-reviewed datasets  
 - Instruction tuning on anonymized prescription pairs  
 - RLHF for safety optimization  
+
+---
+
+
+# 🔧 Results
+
+![Product.png]([https://github.com/pratibhabd/Explain-My-Prescription-A-Safe-Medical-Assistant-using-MedGemma/blob/master/Results/product.png]
+
+![Product.png]([https://github.com/pratibhabd/Explain-My-Prescription-A-Safe-Medical-Assistant-using-MedGemma/blob/master/Results/product.png]
 
 ---
 
